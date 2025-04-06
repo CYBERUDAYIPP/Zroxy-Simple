@@ -37,7 +37,7 @@ cmd({
           'image': {
             'url': _0x58b5b7.images_url
           },
-          'caption': "*© 𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 your Botname*" 
+          'caption': "*© 𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 ZROXY-MD*" 
         }, {
           'quoted': _0x59fdb9
         });
@@ -52,7 +52,7 @@ cmd({
   }
 });
 
-/*
+
 const GOOGLE_API_KEY = 'AIzaSyDMbI3nvmQUrfjoCJYLS69Lej1hSXQjnWI'; // Replace with your Google API key
 const GOOGLE_CX = 'baf9bdb0c631236e5'; // Replace with your Google Custom Search Engine ID
 //const apiKey = "AIzaSyDMbI3nvmQUrfjoCJYLS69Lej1hSXQjnWI"; // Votre clé API Google
@@ -93,9 +93,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *💗 Image ${i + 1} from your search! 💗*
 
- *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 your Botname 👾*
+ *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 ZROXY-MD👾*
 
-> 🥷🏽 Your Botname 🥷🏽`
+> 🥷🏽 ZROXY-MD 🥷🏽`
 }, { quoted: mek });
 }
 
