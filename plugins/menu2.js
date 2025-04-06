@@ -1,8 +1,3 @@
-/*created by King Malvin 🕵
-contact dev1 263780934873 ♻️
-contact dev2 https://t.me/malvinking2 ♻️
-© just give credit will you ⚠
-*/
 
 
 
@@ -41,10 +36,10 @@ let madeMenu = `*╭─────────────────❒⁠⁠
      *${pushname}*
 
 ┏━━━━━━━━━━━━━━━━━━━━
-   *Welcome to Botname 2nd Menu*
+   *Welcome to ZROXY-MD 2nd Menu*
 ┗━━━━━━━━━━━━━━━━━━━━
 
-*Created by your name👨🏻‍💻*
+*Created by CYBER UDAYIPP 👨🏻‍💻*
 
 
 *╭───────────────❒⁠⁠⁠⁠*
@@ -94,7 +89,7 @@ ${menu.search}
 *╰──────────●●►*
 
 
-> *Powered by botname*
+> *Powered by ZROXY-MD*
 
 `;
 
